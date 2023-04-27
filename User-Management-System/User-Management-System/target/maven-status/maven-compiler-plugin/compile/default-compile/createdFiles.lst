@@ -1,0 +1,4 @@
+com\Geekster\UserManagementSystem\UserManagementSystemApplication.class
+model\UMS.class
+service\UserService.class
+Repository\UserRepo.class
