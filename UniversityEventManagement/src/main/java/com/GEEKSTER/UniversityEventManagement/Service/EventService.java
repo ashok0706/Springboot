@@ -37,7 +37,7 @@ public class EventService {
 
 	public Iterable<Event> getEvent(LocalDate date) {
 		
-		return eventrepo.findBy(date);
+		return eventrepo.findByLocalDate(date);
 	}
 
 }
